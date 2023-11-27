@@ -1,0 +1,847 @@
+Invalid target: 57.0
+Invalid target: 43.0
+Invalid target: 85.0
+Invalid target: 71.0
+Invalid prediction: -0.21680172
+Invalid prediction: -0.17795853
+Invalid prediction: -0.21649322
+Invalid prediction: -0.40371758
+Epoch [1/10], Batch 0, Loss: 3187.6328125
+Invalid target: 51.0
+Invalid target: 47.0
+Invalid target: 79.0
+Invalid target: 75.0
+Invalid prediction: 27.227484
+Invalid prediction: 52.328438
+Invalid prediction: 54.84403
+Invalid prediction: 76.99843
+Epoch [1/10], Batch 100, Loss: 180.41566467285156
+Invalid target: 27.0
+Invalid target: 48.0
+Invalid target: 55.0
+Invalid target: 76.0
+Invalid prediction: 27.073406
+Invalid prediction: 48.104397
+Invalid prediction: 54.65283
+Invalid prediction: 76.78529
+Epoch [1/10], Batch 200, Loss: 148.2177734375
+Invalid target: 45.0
+Invalid target: 62.0
+Invalid target: 73.0
+Invalid target: 90.0
+Invalid prediction: 56.016674
+Invalid prediction: 48.81247
+Invalid prediction: 85.865616
+Invalid prediction: 77.3869
+Epoch [1/10], Batch 300, Loss: 133.5120086669922
+Invalid target: 36.0
+Invalid target: 24.0
+Invalid target: 64.0
+Invalid target: 52.0
+Invalid prediction: 41.38341
+Invalid prediction: 23.399397
+Invalid prediction: 70.29678
+Invalid prediction: 51.095108
+Epoch [1/10], Batch 400, Loss: 141.18527221679688
+Invalid target: 63.0
+Invalid target: 54.0
+Invalid target: 91.0
+Invalid target: 82.0
+Invalid prediction: 61.87797
+Invalid prediction: 52.004887
+Invalid prediction: 93.55109
+Invalid prediction: 80.444626
+Epoch [1/10], Batch 500, Loss: 78.16913604736328
+Invalid target: 57.0
+Invalid target: 17.0
+Invalid target: 85.0
+Invalid target: 45.0
+Invalid prediction: 54.12159
+Invalid prediction: 15.600556
+Invalid prediction: 79.76241
+Invalid prediction: 42.248314
+Epoch [1/10], Batch 600, Loss: 108.36286163330078
+Invalid target: 60.0
+Invalid target: 52.0
+Invalid target: 88.0
+Invalid target: 80.0
+Invalid prediction: 57.622543
+Invalid prediction: 55.532955
+Invalid prediction: 85.00916
+Invalid prediction: 84.966866
+Epoch [1/10], Batch 700, Loss: 121.58649444580078
+Invalid target: 68.0
+Invalid target: 69.0
+Invalid target: 96.0
+Invalid target: 97.0
+Invalid prediction: 64.90022
+Invalid prediction: 58.678474
+Invalid prediction: 96.40325
+Invalid prediction: 87.39143
+Epoch [1/10], Batch 800, Loss: 131.73638916015625
+Invalid target: 47.0
+Invalid target: 32.0
+Invalid target: 75.0
+Invalid target: 60.0
+Invalid prediction: 49.206192
+Invalid prediction: 28.624302
+Invalid prediction: 77.357025
+Invalid prediction: 58.970528
+Epoch [1/10], Batch 900, Loss: 163.7425537109375
+Invalid target: 46.0
+Invalid target: 63.0
+Invalid target: 74.0
+Invalid target: 91.0
+Invalid prediction: 38.72155
+Invalid prediction: 47.477036
+Invalid prediction: 67.22992
+Invalid prediction: 76.905205
+Epoch [1/10], Batch 1000, Loss: 109.51185607910156
+Invalid target: 44.0
+Invalid target: 14.0
+Invalid target: 72.0
+Invalid target: 42.0
+Invalid prediction: 43.641533
+Invalid prediction: 12.687261
+Invalid prediction: 71.90528
+Invalid prediction: 38.489292
+Epoch [1/10], Batch 1100, Loss: 103.8249740600586
+Invalid target: 62.0
+Invalid target: 3.0
+Invalid target: 90.0
+Invalid target: 31.0
+Invalid prediction: 48.366344
+Invalid prediction: 34.74334
+Invalid prediction: 75.52855
+Invalid prediction: 63.08179
+Epoch [1/10], Batch 1200, Loss: 135.26913452148438
+Invalid target: 24.0
+Invalid target: 36.0
+Invalid target: 52.0
+Invalid target: 64.0
+Invalid prediction: 35.219776
+Invalid prediction: 36.099648
+Invalid prediction: 63.02946
+Invalid prediction: 62.471905
+Epoch [1/10], Batch 1300, Loss: 99.75004577636719
+Invalid target: 11.0
+Invalid target: 63.0
+Invalid target: 39.0
+Invalid target: 91.0
+Invalid prediction: 11.645113
+Invalid prediction: 60.961964
+Invalid prediction: 39.354797
+Invalid prediction: 89.76702
+Epoch [1/10], Batch 1400, Loss: 126.67723083496094
+Invalid target: 57.0
+Invalid target: 59.0
+Invalid target: 85.0
+Invalid target: 87.0
+Invalid prediction: 51.20233
+Invalid prediction: 38.01438
+Invalid prediction: 79.32141
+Invalid prediction: 64.8757
+Epoch [1/10], Batch 1500, Loss: 93.81632232666016
+Invalid target: 10.0
+Invalid target: 41.0
+Invalid target: 38.0
+Invalid target: 69.0
+Invalid prediction: 12.927235
+Invalid prediction: 40.506237
+Invalid prediction: 38.141037
+Invalid prediction: 66.90314
+Epoch [1/10], Batch 1600, Loss: 47.2037467956543
+Invalid target: 55.0
+Invalid target: 16.0
+Invalid target: 83.0
+Invalid target: 44.0
+Invalid prediction: 47.07447
+Invalid prediction: 36.646538
+Invalid prediction: 75.65505
+Invalid prediction: 65.631546
+Epoch [1/10], Batch 1700, Loss: 105.3107681274414
+Invalid target: 28.0
+Invalid target: 1.0
+Invalid target: 56.0
+Invalid target: 29.0
+Invalid prediction: 26.498745
+Invalid prediction: 3.2447586
+Invalid prediction: 53.78227
+Invalid prediction: 29.554333
+Epoch [1/10], Batch 1800, Loss: 159.9510040283203
+Invalid target: 61.0
+Invalid target: 12.0
+Invalid target: 89.0
+Invalid target: 40.0
+Invalid prediction: 58.989105
+Invalid prediction: 14.341789
+Invalid prediction: 86.68481
+Invalid prediction: 41.11062
+Epoch [2/10], Batch 0, Loss: 114.05835723876953
+Invalid target: 0.0
+Invalid target: 62.0
+Invalid target: 28.0
+Invalid target: 90.0
+Invalid prediction: 31.819525
+Invalid prediction: 67.59094
+Invalid prediction: 63.925194
+Invalid prediction: 97.87933
+Epoch [2/10], Batch 100, Loss: 154.62168884277344
+Invalid target: 65.0
+Invalid target: 41.0
+Invalid target: 93.0
+Invalid target: 69.0
+Invalid prediction: 64.82028
+Invalid prediction: 41.12725
+Invalid prediction: 92.49049
+Invalid prediction: 70.38669
+Epoch [2/10], Batch 200, Loss: 128.0462188720703
+Invalid target: 30.0
+Invalid target: 2.0
+Invalid target: 58.0
+Invalid target: 30.0
+Invalid prediction: 29.9535
+Invalid prediction: 6.0885406
+Invalid prediction: 59.102272
+Invalid prediction: 34.20796
+Epoch [2/10], Batch 300, Loss: 119.43256378173828
+Invalid target: 5.0
+Invalid target: 22.0
+Invalid target: 33.0
+Invalid target: 50.0
+Invalid prediction: 2.7349262
+Invalid prediction: 26.127552
+Invalid prediction: 32.066174
+Invalid prediction: 54.12591
+Epoch [2/10], Batch 400, Loss: 160.71722412109375
+Invalid target: 58.0
+Invalid target: 47.0
+Invalid target: 86.0
+Invalid target: 75.0
+Invalid prediction: 59.395706
+Invalid prediction: 47.135933
+Invalid prediction: 88.228004
+Invalid prediction: 76.07842
+Epoch [2/10], Batch 500, Loss: 78.87104034423828
+Invalid target: 32.0
+Invalid target: 66.0
+Invalid target: 60.0
+Invalid target: 94.0
+Invalid prediction: 29.23199
+Invalid prediction: 66.070496
+Invalid prediction: 56.362133
+Invalid prediction: 92.428734
+Epoch [2/10], Batch 600, Loss: 105.95245361328125
+Invalid target: 67.0
+Invalid target: 36.0
+Invalid target: 95.0
+Invalid target: 64.0
+Invalid prediction: 68.91389
+Invalid prediction: 35.61424
+Invalid prediction: 97.34553
+Invalid prediction: 65.44755
+Epoch [2/10], Batch 700, Loss: 253.06637573242188
+Invalid target: 60.0
+Invalid target: 60.0
+Invalid target: 88.0
+Invalid target: 88.0
+Invalid prediction: 59.43836
+Invalid prediction: 49.350388
+Invalid prediction: 87.32413
+Invalid prediction: 77.16028
+Epoch [2/10], Batch 800, Loss: 169.82260131835938
+Invalid target: 12.0
+Invalid target: 14.0
+Invalid target: 40.0
+Invalid target: 42.0
+Invalid prediction: 12.228193
+Invalid prediction: 16.455343
+Invalid prediction: 39.568596
+Invalid prediction: 44.444836
+Epoch [2/10], Batch 900, Loss: 172.7912139892578
+Invalid target: 66.0
+Invalid target: 14.0
+Invalid target: 94.0
+Invalid target: 42.0
+Invalid prediction: 67.007355
+Invalid prediction: 14.68722
+Invalid prediction: 95.51943
+Invalid prediction: 43.37018
+Epoch [2/10], Batch 1000, Loss: 90.06964874267578
+Invalid target: 41.0
+Invalid target: 7.0
+Invalid target: 69.0
+Invalid target: 35.0
+Invalid prediction: 38.55142
+Invalid prediction: 5.4010625
+Invalid prediction: 65.861244
+Invalid prediction: 32.739555
+Epoch [2/10], Batch 1100, Loss: 122.24786376953125
+Invalid target: 8.0
+Invalid target: 13.0
+Invalid target: 36.0
+Invalid target: 41.0
+Invalid prediction: 12.028762
+Invalid prediction: 13.062666
+Invalid prediction: 41.321728
+Invalid prediction: 43.08126
+Epoch [2/10], Batch 1200, Loss: 138.66566467285156
+Invalid target: 27.0
+Invalid target: 59.0
+Invalid target: 55.0
+Invalid target: 87.0
+Invalid prediction: 27.999304
+Invalid prediction: 59.961414
+Invalid prediction: 55.756523
+Invalid prediction: 87.24187
+Epoch [2/10], Batch 1300, Loss: 100.347412109375
+Invalid target: 9.0
+Invalid target: 57.0
+Invalid target: 37.0
+Invalid target: 85.0
+Invalid prediction: 29.012972
+Invalid prediction: 51.90662
+Invalid prediction: 58.742676
+Invalid prediction: 81.37268
+Epoch [2/10], Batch 1400, Loss: 114.65725708007812
+Invalid target: 59.0
+Invalid target: 1.0
+Invalid target: 87.0
+Invalid target: 29.0
+Invalid prediction: 58.193867
+Invalid prediction: 0.47970837
+Invalid prediction: 84.449005
+Invalid prediction: 28.12334
+Epoch [2/10], Batch 1500, Loss: 120.82819366455078
+Invalid target: 70.0
+Invalid target: 49.0
+Invalid target: 98.0
+Invalid target: 77.0
+Invalid prediction: 69.72684
+Invalid prediction: 48.433693
+Invalid prediction: 96.403366
+Invalid prediction: 76.2237
+Epoch [2/10], Batch 1600, Loss: 112.78646087646484
+Invalid target: 67.0
+Invalid target: 52.0
+Invalid target: 95.0
+Invalid target: 80.0
+Invalid prediction: 46.355724
+Invalid prediction: 55.992825
+Invalid prediction: 74.45614
+Invalid prediction: 83.09942
+Epoch [2/10], Batch 1700, Loss: 157.49169921875
+Invalid target: 23.0
+Invalid target: 62.0
+Invalid target: 51.0
+Invalid target: 90.0
+Invalid prediction: 14.318304
+Invalid prediction: 37.324696
+Invalid prediction: 42.991234
+Invalid prediction: 65.45308
+Epoch [2/10], Batch 1800, Loss: 104.8617935180664
+Invalid target: 3.0
+Invalid target: 20.0
+Invalid target: 31.0
+Invalid target: 48.0
+Invalid prediction: 16.735321
+Invalid prediction: 33.010937
+Invalid prediction: 44.628365
+Invalid prediction: 61.01178
+Epoch [3/10], Batch 0, Loss: 105.1202621459961
+Invalid target: 38.0
+Invalid target: 12.0
+Invalid target: 66.0
+Invalid target: 40.0
+Invalid prediction: 23.265234
+Invalid prediction: 7.923253
+Invalid prediction: 52.02429
+Invalid prediction: 36.376446
+Epoch [3/10], Batch 100, Loss: 137.82130432128906
+Invalid target: 41.0
+Invalid target: 32.0
+Invalid target: 69.0
+Invalid target: 60.0
+Invalid prediction: 21.42059
+Invalid prediction: 20.165844
+Invalid prediction: 50.20029
+Invalid prediction: 48.282665
+Epoch [3/10], Batch 200, Loss: 191.4927978515625
+Invalid target: 38.0
+Invalid target: 48.0
+Invalid target: 66.0
+Invalid target: 76.0
+Invalid prediction: 34.9436
+Invalid prediction: 38.171093
+Invalid prediction: 63.339775
+Invalid prediction: 68.35805
+Epoch [3/10], Batch 300, Loss: 104.60807037353516
+Invalid target: 27.0
+Invalid target: 34.0
+Invalid target: 55.0
+Invalid target: 62.0
+Invalid prediction: 26.515263
+Invalid prediction: 35.30296
+Invalid prediction: 53.894714
+Invalid prediction: 63.33733
+Epoch [3/10], Batch 400, Loss: 120.64328002929688
+Invalid target: 47.0
+Invalid target: 72.0
+Invalid target: 75.0
+Invalid target: 100.0
+Invalid prediction: 43.849773
+Invalid prediction: 69.054665
+Invalid prediction: 71.12008
+Invalid prediction: 96.71018
+Epoch [3/10], Batch 500, Loss: 99.77601623535156
+Invalid target: 13.0
+Invalid target: 29.0
+Invalid target: 41.0
+Invalid target: 57.0
+Invalid prediction: 13.33089
+Invalid prediction: 29.376556
+Invalid prediction: 40.577766
+Invalid prediction: 57.601852
+Epoch [3/10], Batch 600, Loss: 81.20932006835938
+Invalid target: 23.0
+Invalid target: 31.0
+Invalid target: 51.0
+Invalid target: 59.0
+Invalid prediction: 17.860842
+Invalid prediction: 29.95675
+Invalid prediction: 45.119785
+Invalid prediction: 57.71814
+Epoch [3/10], Batch 700, Loss: 111.83756256103516
+Invalid target: 39.0
+Invalid target: 30.0
+Invalid target: 67.0
+Invalid target: 58.0
+Invalid prediction: 38.000126
+Invalid prediction: 30.203959
+Invalid prediction: 66.14616
+Invalid prediction: 58.855537
+Epoch [3/10], Batch 800, Loss: 112.88520812988281
+Invalid target: 7.0
+Invalid target: 44.0
+Invalid target: 35.0
+Invalid target: 72.0
+Invalid prediction: 9.5243635
+Invalid prediction: 41.505817
+Invalid prediction: 37.740273
+Invalid prediction: 70.478806
+Epoch [3/10], Batch 900, Loss: 160.54183959960938
+Invalid target: 1.0
+Invalid target: 27.0
+Invalid target: 29.0
+Invalid target: 55.0
+Invalid prediction: 28.861296
+Invalid prediction: 53.319473
+Invalid prediction: 57.521557
+Invalid prediction: 82.96268
+Epoch [3/10], Batch 1000, Loss: 254.02777099609375
+Invalid target: 57.0
+Invalid target: 51.0
+Invalid target: 85.0
+Invalid target: 79.0
+Invalid prediction: 49.36823
+Invalid prediction: 42.84613
+Invalid prediction: 76.41909
+Invalid prediction: 70.38034
+Epoch [3/10], Batch 1100, Loss: 126.94692993164062
+Invalid target: 8.0
+Invalid target: 47.0
+Invalid target: 36.0
+Invalid target: 75.0
+Invalid prediction: 12.823768
+Invalid prediction: 61.18806
+Invalid prediction: 40.93795
+Invalid prediction: 89.65524
+Epoch [3/10], Batch 1200, Loss: 139.76966857910156
+Invalid target: 63.0
+Invalid target: 35.0
+Invalid target: 91.0
+Invalid target: 63.0
+Invalid prediction: 62.977184
+Invalid prediction: 24.990097
+Invalid prediction: 89.96617
+Invalid prediction: 51.79377
+Epoch [3/10], Batch 1300, Loss: 87.56513977050781
+Invalid target: 2.0
+Invalid target: 50.0
+Invalid target: 30.0
+Invalid target: 78.0
+Invalid prediction: 6.825311
+Invalid prediction: 46.9555
+Invalid prediction: 34.84181
+Invalid prediction: 75.094826
+Epoch [3/10], Batch 1400, Loss: 93.75655364990234
+Invalid target: 40.0
+Invalid target: 12.0
+Invalid target: 68.0
+Invalid target: 40.0
+Invalid prediction: 55.84909
+Invalid prediction: 24.824516
+Invalid prediction: 82.34192
+Invalid prediction: 51.722614
+Epoch [3/10], Batch 1500, Loss: 117.024169921875
+Invalid target: 54.0
+Invalid target: 31.0
+Invalid target: 82.0
+Invalid target: 59.0
+Invalid prediction: 52.649235
+Invalid prediction: 40.238213
+Invalid prediction: 81.45311
+Invalid prediction: 69.13167
+Epoch [3/10], Batch 1600, Loss: 151.43466186523438
+Invalid target: 36.0
+Invalid target: 61.0
+Invalid target: 64.0
+Invalid target: 89.0
+Invalid prediction: 48.158558
+Invalid prediction: 37.398354
+Invalid prediction: 76.10792
+Invalid prediction: 65.93654
+Epoch [3/10], Batch 1700, Loss: 97.38042449951172
+Invalid target: 12.0
+Invalid target: 71.0
+Invalid target: 40.0
+Invalid target: 99.0
+Invalid prediction: 9.858224
+Invalid prediction: 68.318855
+Invalid prediction: 36.87085
+Invalid prediction: 95.39382
+Epoch [3/10], Batch 1800, Loss: 70.11381530761719
+Invalid target: 30.0
+Invalid target: 20.0
+Invalid target: 58.0
+Invalid target: 48.0
+Invalid prediction: 22.974493
+Invalid prediction: 33.64048
+Invalid prediction: 51.027477
+Invalid prediction: 61.9057
+Epoch [4/10], Batch 0, Loss: 138.7156982421875
+Invalid target: 10.0
+Invalid target: 53.0
+Invalid target: 38.0
+Invalid target: 81.0
+Invalid prediction: 6.8106794
+Invalid prediction: 54.029552
+Invalid prediction: 34.550293
+Invalid prediction: 81.24982
+Epoch [4/10], Batch 100, Loss: 130.2183074951172
+Invalid target: 51.0
+Invalid target: 53.0
+Invalid target: 79.0
+Invalid target: 81.0
+Invalid prediction: 49.23169
+Invalid prediction: 50.6624
+Invalid prediction: 76.03302
+Invalid prediction: 77.90572
+Epoch [4/10], Batch 200, Loss: 90.21659851074219
+Invalid target: 40.0
+Invalid target: 62.0
+Invalid target: 68.0
+Invalid target: 90.0
+Invalid prediction: 37.659782
+Invalid prediction: 63.746105
+Invalid prediction: 65.57839
+Invalid prediction: 91.702446
+Epoch [4/10], Batch 300, Loss: 151.12911987304688
+Invalid target: 63.0
+Invalid target: 49.0
+Invalid target: 91.0
+Invalid target: 77.0
+Invalid prediction: 63.511913
+Invalid prediction: 47.815773
+Invalid prediction: 90.94828
+Invalid prediction: 75.99418
+Epoch [4/10], Batch 400, Loss: 138.25831604003906
+Invalid target: 44.0
+Invalid target: 69.0
+Invalid target: 72.0
+Invalid target: 97.0
+Invalid prediction: 46.034687
+Invalid prediction: 67.09506
+Invalid prediction: 74.35492
+Invalid prediction: 96.13413
+Epoch [4/10], Batch 500, Loss: 172.95693969726562
+Invalid target: 64.0
+Invalid target: 16.0
+Invalid target: 92.0
+Invalid target: 44.0
+Invalid prediction: 68.742935
+Invalid prediction: 17.974886
+Invalid prediction: 97.88045
+Invalid prediction: 47.553875
+Epoch [4/10], Batch 600, Loss: 161.53646850585938
+Invalid target: 62.0
+Invalid target: 4.0
+Invalid target: 90.0
+Invalid target: 32.0
+Invalid prediction: 61.445236
+Invalid prediction: 6.518874
+Invalid prediction: 89.377884
+Invalid prediction: 34.103374
+Epoch [4/10], Batch 700, Loss: 97.15186309814453
+Invalid target: 60.0
+Invalid target: 13.0
+Invalid target: 88.0
+Invalid target: 41.0
+Invalid prediction: 59.901634
+Invalid prediction: 14.045436
+Invalid prediction: 87.37512
+Invalid prediction: 41.144073
+Epoch [4/10], Batch 800, Loss: 72.580322265625
+Invalid target: 16.0
+Invalid target: 50.0
+Invalid target: 44.0
+Invalid target: 78.0
+Invalid prediction: 15.681105
+Invalid prediction: 49.352455
+Invalid prediction: 43.063766
+Invalid prediction: 76.73283
+Epoch [4/10], Batch 900, Loss: 46.48774337768555
+Invalid target: 54.0
+Invalid target: 7.0
+Invalid target: 82.0
+Invalid target: 35.0
+Invalid prediction: 54.812057
+Invalid prediction: 8.199226
+Invalid prediction: 83.99437
+Invalid prediction: 36.996857
+Epoch [4/10], Batch 1000, Loss: 115.61630249023438
+Invalid target: 68.0
+Invalid target: 56.0
+Invalid target: 96.0
+Invalid target: 84.0
+Invalid prediction: 64.293724
+Invalid prediction: 59.313072
+Invalid prediction: 91.751045
+Invalid prediction: 86.60657
+Epoch [4/10], Batch 1100, Loss: 73.35523223876953
+Invalid target: 2.0
+Invalid target: 52.0
+Invalid target: 30.0
+Invalid target: 80.0
+Invalid prediction: 14.084145
+Invalid prediction: 40.228867
+Invalid prediction: 42.79411
+Invalid prediction: 68.91014
+Epoch [4/10], Batch 1200, Loss: 154.93148803710938
+Invalid target: 22.0
+Invalid target: 42.0
+Invalid target: 50.0
+Invalid target: 70.0
+Invalid prediction: 12.469808
+Invalid prediction: 48.41891
+Invalid prediction: 41.55078
+Invalid prediction: 76.91518
+Epoch [4/10], Batch 1300, Loss: 171.4609375
+Invalid target: 51.0
+Invalid target: 28.0
+Invalid target: 79.0
+Invalid target: 56.0
+Invalid prediction: 51.02491
+Invalid prediction: 29.1993
+Invalid prediction: 78.025795
+Invalid prediction: 56.28935
+Epoch [4/10], Batch 1400, Loss: 101.93943786621094
+Invalid target: 27.0
+Invalid target: 9.0
+Invalid target: 55.0
+Invalid target: 37.0
+Invalid prediction: 20.760975
+Invalid prediction: 19.69227
+Invalid prediction: 50.718964
+Invalid prediction: 49.075233
+Epoch [4/10], Batch 1500, Loss: 184.80355834960938
+Invalid target: 60.0
+Invalid target: 11.0
+Invalid target: 88.0
+Invalid target: 39.0
+Invalid prediction: 63.559887
+Invalid prediction: 6.607841
+Invalid prediction: 91.938545
+Invalid prediction: 35.562702
+Epoch [4/10], Batch 1600, Loss: 145.0110626220703
+Invalid target: 9.0
+Invalid target: 9.0
+Invalid target: 37.0
+Invalid target: 37.0
+Invalid prediction: 17.144491
+Invalid prediction: 21.649673
+Invalid prediction: 44.876003
+Invalid prediction: 50.08334
+Epoch [4/10], Batch 1700, Loss: 148.03919982910156
+Invalid target: 4.0
+Invalid target: 35.0
+Invalid target: 32.0
+Invalid target: 63.0
+Invalid prediction: 2.5248408
+Invalid prediction: 36.9354
+Invalid prediction: 30.15501
+Invalid prediction: 64.913666
+Epoch [4/10], Batch 1800, Loss: 158.1343231201172
+Invalid target: 61.0
+Invalid target: 32.0
+Invalid target: 89.0
+Invalid target: 60.0
+Invalid prediction: 59.388885
+Invalid prediction: 32.966114
+Invalid prediction: 87.120964
+Invalid prediction: 60.881626
+Epoch [5/10], Batch 0, Loss: 90.4403305053711
+Invalid target: 25.0
+Invalid target: 37.0
+Invalid target: 53.0
+Invalid target: 65.0
+Invalid prediction: 36.737797
+Invalid prediction: 31.748562
+Invalid prediction: 66.16735
+Invalid prediction: 61.172215
+Epoch [5/10], Batch 100, Loss: 202.07330322265625
+Invalid target: 43.0
+Invalid target: 49.0
+Invalid target: 71.0
+Invalid target: 77.0
+Invalid prediction: 57.595654
+Invalid prediction: 38.64214
+Invalid prediction: 86.81998
+Invalid prediction: 67.86137
+Epoch [5/10], Batch 200, Loss: 96.49552917480469
+Invalid target: 45.0
+Invalid target: 64.0
+Invalid target: 73.0
+Invalid target: 92.0
+Invalid prediction: 45.49921
+Invalid prediction: 56.70222
+Invalid prediction: 73.09273
+Invalid prediction: 84.06507
+Epoch [5/10], Batch 300, Loss: 105.26697540283203
+Invalid target: 13.0
+Invalid target: 53.0
+Invalid target: 41.0
+Invalid target: 81.0
+Invalid prediction: 21.71191
+Invalid prediction: 39.781204
+Invalid prediction: 49.207542
+Invalid prediction: 67.84339
+Epoch [5/10], Batch 400, Loss: 105.96515655517578
+Invalid target: 3.0
+Invalid target: 21.0
+Invalid target: 31.0
+Invalid target: 49.0
+Invalid prediction: 30.357727
+Invalid prediction: 16.181536
+Invalid prediction: 57.518074
+Invalid prediction: 43.12345
+Epoch [5/10], Batch 500, Loss: 120.90865325927734
+Invalid target: 0.0
+Invalid target: 32.0
+Invalid target: 28.0
+Invalid target: 60.0
+Invalid prediction: 27.295616
+Invalid prediction: 37.61219
+Invalid prediction: 55.360157
+Invalid prediction: 66.10784
+Epoch [5/10], Batch 600, Loss: 164.80430603027344
+Invalid target: 39.0
+Invalid target: 54.0
+Invalid target: 67.0
+Invalid target: 82.0
+Invalid prediction: 25.606754
+Invalid prediction: 37.74081
+Invalid prediction: 52.44913
+Invalid prediction: 65.382126
+Epoch [5/10], Batch 700, Loss: 159.9684295654297
+Invalid target: 59.0
+Invalid target: 10.0
+Invalid target: 87.0
+Invalid target: 38.0
+Invalid prediction: 62.701706
+Invalid prediction: 17.030294
+Invalid prediction: 90.79525
+Invalid prediction: 45.428684
+Epoch [5/10], Batch 800, Loss: 120.09402465820312
+Invalid target: 5.0
+Invalid target: 35.0
+Invalid target: 33.0
+Invalid target: 63.0
+Invalid prediction: 4.530943
+Invalid prediction: 33.42859
+Invalid prediction: 31.144733
+Invalid prediction: 60.147373
+Epoch [5/10], Batch 900, Loss: 95.29595184326172
+Invalid target: 49.0
+Invalid target: 2.0
+Invalid target: 77.0
+Invalid target: 30.0
+Invalid prediction: 51.34885
+Invalid prediction: 4.0370746
+Invalid prediction: 78.76192
+Invalid prediction: 31.149055
+Epoch [5/10], Batch 1000, Loss: 191.35098266601562
+Invalid target: 22.0
+Invalid target: 65.0
+Invalid target: 50.0
+Invalid target: 93.0
+Invalid prediction: 20.532349
+Invalid prediction: 65.14658
+Invalid prediction: 49.10348
+Invalid prediction: 94.035484
+Epoch [5/10], Batch 1100, Loss: 80.60948181152344
+Invalid target: 7.0
+Invalid target: 37.0
+Invalid target: 35.0
+Invalid target: 65.0
+Invalid prediction: 41.11261
+Invalid prediction: 23.275307
+Invalid prediction: 70.428085
+Invalid prediction: 52.571217
+Epoch [5/10], Batch 1200, Loss: 162.5095672607422
+Invalid target: 13.0
+Invalid target: 0.0
+Invalid target: 41.0
+Invalid target: 28.0
+Invalid prediction: 15.825452
+Invalid prediction: -0.7052232
+Invalid prediction: 44.22635
+Invalid prediction: 28.011633
+Epoch [5/10], Batch 1300, Loss: 88.41695404052734
+Invalid target: 21.0
+Invalid target: 29.0
+Invalid target: 49.0
+Invalid target: 57.0
+Invalid prediction: 14.727613
+Invalid prediction: 44.186176
+Invalid prediction: 42.895473
+Invalid prediction: 72.746635
+Epoch [5/10], Batch 1400, Loss: 121.81432342529297
+Invalid target: 37.0
+Invalid target: 42.0
+Invalid target: 65.0
+Invalid target: 70.0
+Invalid prediction: 35.642296
+Invalid prediction: 41.582
+Invalid prediction: 62.7905
+Invalid prediction: 68.64567
+Epoch [5/10], Batch 1500, Loss: 74.15669250488281
+Invalid target: 9.0
+Invalid target: 28.0
+Invalid target: 37.0
+Invalid target: 56.0
+Invalid prediction: 6.8434706
+Invalid prediction: 31.037735
+Invalid prediction: 34.321808
+Invalid prediction: 58.29178
+Epoch [5/10], Batch 1600, Loss: 152.2119140625
+Invalid target: 61.0
+Invalid target: 52.0
+Invalid target: 89.0
+Invalid target: 80.0
+Invalid prediction: 60.25776
+Invalid prediction: 52.358025
+Invalid prediction: 88.22488
+Invalid prediction: 80.09429
+Epoch [5/10], Batch 1700, Loss: 99.28290557861328
+Using device: cuda
